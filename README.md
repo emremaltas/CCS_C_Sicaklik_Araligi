@@ -1,6 +1,6 @@
 # Sıcaklık Sensörü
 29.07.2021
-Kullanıcı "Sıcaklıkları Ayarla"butonuna bastığında,kullanıcıdan(Timer0 sayıcı olarak kullanılmıştır.)3 adet 2 ile 150 C' arasinda girmesi isteniyor.Programda aralık dışındaki girişler engellenmiştir.
+Kullanıcı "Sıcaklıkları Ayarla"butonuna bastığında,kullanıcıdan(Timer0 sayıcı olarak kullanılmıştır.)3 adet 2 ile 150 C' arasinda sıcaklık girmesi isteniyor.Programda aralık dışındaki girişler engellenmiştir.
 Alınan bu 3 sıcaklik değeri sonradan yeniden değiştiriebiliyor.
 Alınan sıcaklık değerleri küçükten büyüğe sıralanıyor.
 Ardından ölçülen sıcaklık değerleri ,girilen bu sıcaklık değerleri ile karşılaştırılıyor.
