@@ -1,0 +1,19 @@
+[PROJECT]
+Target=proje2.hex
+Processor_Text=PIC16F877
+CCSVersion=5.015
+Compiler=PCM
+[Target Data]
+FileList=proje2.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[proje2.c]
+Type=4
+[mru-list]
+1=proje2.c
+[Opened Files]
+1=proje2.c
+2=
+[Units]
+Count=1
+1=proje2 (main)

@@ -1,0 +1,8 @@
+>>> Warning 216 "proje2.c" Line 191(1,2): Interrupts disabled during call to prevent re-entrancy:  (@delay_ms1)
+>>> Warning 216 "proje2.c" Line 191(1,2): Interrupts disabled during call to prevent re-entrancy:  (lcd_send_byte)
+>>> Warning 216 "proje2.c" Line 191(1,2): Interrupts disabled during call to prevent re-entrancy:  (@PSTRINGC7_640)
+>>> Warning 216 "proje2.c" Line 191(1,2): Interrupts disabled during call to prevent re-entrancy:  (lcd_putc)
+>>> Warning 216 "proje2.c" Line 191(1,2): Interrupts disabled during call to prevent re-entrancy:  (@PSTRINGCN7_640)
+      Memory usage:   ROM=41%      RAM=10% - 21%
+      0 Errors,  5 Warnings.
+Build Successful.
